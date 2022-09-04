@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-with-CNN-LSTM-and-Bi-directional-CNN-LSTM
